@@ -17,6 +17,10 @@ dependencies:
   visibility_detector: ^0.4.0+2
   collection: ^1.16.0
 
+dependency_overrides:
+  wakelock: ^0.6.2
+  wakelock_windows: ^0.2.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

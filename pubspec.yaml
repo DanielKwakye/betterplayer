@@ -23,6 +23,9 @@ dependencies:
   collection: ^1.16.0
   xml: ^6.1.0
 
+dependency_overrides:
+  wakelock_windows: ^0.2.1
+
 dev_dependencies:
   lint: ^1.10.0
   flutter_test:
